@@ -27,7 +27,7 @@ Windows 8.1 64bit
 ダウンロードしたMIDIOLib1.0.zipを適当な場所に解凍します．  
 次に，MIDIIOLib1.0\Release\に格納されているMIDIO.dllをコピーします．  
 コピーしたMIDIO.dllを本GitHubから入手したpymidiioフォルダの直下に配置してください．  
-DLLファイルを配置した後の，pymidioフォルダののファイル構成は以下のようになります．  
+DLLファイルを配置した後の，pymidioフォルダのファイル構成は以下のようになります．  
 
 pymidiio  
 │― \_\_init\_\_.py     
