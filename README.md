@@ -1,6 +1,6 @@
-﻿pymidio
+﻿pymidiio
 ======================
-pymidioｊは[おーぷんMIDIぷろじぇくと][openmidi]で配布されている[MIDIIOライブラリ][midiio]をPythonから使用するためのラッパーモジュールです．   
+pymidiioは[おーぷんMIDIぷろじぇくと][openmidi]で配布されている[MIDIIOライブラリ][midiio]をPythonから使用するためのラッパーモジュールです．   
 
 [openmidi]: http://openmidiproject.sourceforge.jp/  
 [midiio]: http://openmidiproject.sourceforge.jp/MIDIIOLibrary.html  
